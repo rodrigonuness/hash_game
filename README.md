@@ -1,6 +1,6 @@
 # hash_game
 
-
+<img src="https://github.com/rodrigonuness/game_using_javascript/blob/master/hash_game.gif" align="right" width="20%">
 
 ## Stack
 - Javascript
